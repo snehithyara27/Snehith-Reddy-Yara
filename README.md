@@ -19,25 +19,50 @@ Quality Assurance Engineer with *7 years of experience* in *web, mobile, API, an
 ---
 
 ## 💼 Professional Experience
-*HealthBank Inc. – QA Engineer (Aug 2023 – Present)*  
-- Automated regression tests, reducing test cycles from 5 → 2 days  
-- Stabilized mobile app with Appium, lowering crash reports by 30%  
-- Integrated automated tests with Jenkins for CI/CD  
+*Professional Experience
+Senior QA Engineer – PNC Bank (Pittsburgh, PA)
 
-*Citibank – Senior QA Engineer (Mar 2022 – Jul 2023)*  
-- Automated banking workflows, cut repetitive manual work by 50%  
-- Validated APIs, backend data, and performed load testing  
-- Used TDD/BDD for reliable and maintainable automation  
+Mar 2024 – Present
 
-*HSBC – QA Engineer (Dec 2021 – Feb 2022)*  
-- Selenium & Cypress automation for insurance workflows  
-- API testing with REST Assured & Postman  
-- JMeter load testing and Jenkins integration  
+Worked on enterprise-level banking applications supporting core customer services across web, mobile, and API layers.
+Responsibilities included functional, regression, integration, and API testing to ensure reliability of critical financial workflows.
+Designed and maintained automation suites using Selenium, Cypress, and Playwright to support continuous testing.
+Performed API validation using Postman and REST Assured, along with backend data verification using SQL.
+Integrated automated tests into CI/CD pipelines using Jenkins and Git.
+Collaborated with Agile teams to ensure quality throughout the development lifecycle.
 
-*ICICI Bank – QA Engineer (Jul 2021 – Nov 2021)*  
-- Mobile banking & API validation for large-scale transactions  
-- Functional and UI checks across web and mobile  
+QA Engineer – The Home Depot (Atlanta, GA)
 
+Sep 2022 – Feb 2024
+
+Worked on large-scale ecommerce and omnichannel retail platforms supporting online ordering and in-store integration.
+Executed functional, regression, and integration testing for UI, backend services, and APIs.
+Developed automation scripts using Cypress and Selenium to improve regression coverage.
+Performed API testing using Postman and backend validations using SQL and NoSQL databases.
+Validated cross-browser and mobile application functionality.
+Actively participated in Agile ceremonies and defect tracking processes.
+
+QA Engineer – Louis Vuitton (Irving, TX)
+
+May 2020 – Aug 2022
+
+Contributed to quality assurance for luxury retail ecommerce and order management systems.
+Performed end-to-end testing across web, backend, and API layers.
+Automated repetitive test scenarios using Selenium and Cypress.
+Validated REST and SOAP APIs using Postman and SoapUI.
+Performed database validation to ensure order and inventory accuracy.
+Supported UAT cycles and collaborated with business and development teams.
+
+QA Engineer – ResMed (Hyderabad, India)
+
+Jul 2018 – Apr 2020
+
+Started career working on healthcare applications involving patient data and device integrations.
+Focused on manual testing including smoke, sanity, regression, and UAT testing.
+Created and executed test cases aligned with functional requirements.
+Validated backend data using SQL and performed mobile application testing.
+Supported integration testing between devices, cloud services, and web applications.
+Gained foundational exposure to automation and Agile development practices.
 *BraveAspire – QA Intern (Jan 2019 – Dec 2019)*  
 - Learned full QA lifecycle, created test cases, and automated small tasks  
 
@@ -51,9 +76,6 @@ Quality Assurance Engineer with *7 years of experience* in *web, mobile, API, an
 
 ---
 
-## 🎓 Certifications
-- *ISTQB Certified Tester Foundation Level (CTFL)*  
-- *Selenium WebDriver & Cypress Automation Course*  
 
 ---
 
