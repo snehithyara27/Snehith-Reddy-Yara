@@ -69,10 +69,22 @@ Gained foundational exposure to automation and Agile development practices.
 ---
 
 ## 📂 Projects
-- *HealthBank Automation:* Regression & mobile tests, Jenkins CI/CD integration  
-- *Citibank Wealth Management:* API validation, backend data verification  
-- *HSBC Insurance Platform:* Selenium & Cypress automation, performance testing  
-- *ICICI Bank Testing:* Mobile & web functional checks, data validation  
+
+PNC Bank – Core Banking QA & Automation
+Regression and integration testing for enterprise banking applications, including web, mobile, and API layers.
+Built and maintained automation suites and integrated test execution into Jenkins CI/CD pipelines.
+
+The Home Depot – Ecommerce QA & Automation
+Functional, regression, and API testing for large-scale ecommerce platforms supporting online ordering and omnichannel workflows.
+Developed automation tests and validated backend data and third-party integrations.
+
+Louis Vuitton – Retail Ecommerce & API Testing
+End-to-end testing of luxury retail ecommerce and order management systems.
+Automated UI flows, validated REST and SOAP APIs, and performed backend data verification.
+
+ResMed – Healthcare Application Testing
+Manual and integration testing of healthcare applications involving patient data and device-cloud synchronization.
+Performed functional, regression, and mobile testing with backend data validation.
 
 ---
 
