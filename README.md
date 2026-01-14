@@ -7,14 +7,18 @@ Quality Assurance Engineer with *7 years of experience* in *web, mobile, API, an
 ---
 
 ## 🛠 Skills
-- *Manual Testing:* Smoke, Sanity, Functional, Regression, Integration, UAT  
-- *Automation:* Selenium WebDriver, Cypress, Playwright, Appium, Robot Framework  
-- *API Testing:* Postman, REST Assured, SoapUI  
-- *Performance Testing:* JMeter, LoadRunner  
-- *Programming:* Java, Python, JavaScript, Shell Scripting  
-- *CI/CD & DevOps:* Jenkins, Git/GitHub, GitLab CI, Maven, Docker  
-- *Databases:* MySQL, SQL Server, Oracle, MongoDB  
-- *Agile:* Scrum, Kanban, TDD, BDD  
+- Languages: Python, Java  
+- Testing Types: Manual Testing (Smoke, Sanity, Functional, Regression, Integration, UAT, System
+  Testing), Test Planning, Test Case Design, Test Reporting, UI Testing, Mobile App Testing, API
+  Testing.
+- Automation Tools: Selenium, WebDriver, Cypress, Playwright, Appium
+- API Testing & Automation: Postman, REST Assured, SoapUI, Swagger, JSON, XML
+- Programming/Scripting: JavaScript, Shell Scripting
+- Defect Tracking & Test Managemant: JiRA, Bugzilla, Azure DevOps, TestRail, Zephyr
+- Performance Testing: JMeter, LoadRunner
+- CI/CD & DevOps: Jenkins, Git/GitHub, GitLab CI, Maven, Gradle, Docker 
+- Databases: MySQL, SQL Server, Oracle, MongoDB
+-Methodologies: Agile, Scrum, Sprint Planning, Backlog Grooming  
 
 ---
 
