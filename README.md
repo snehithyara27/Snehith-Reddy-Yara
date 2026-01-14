@@ -18,7 +18,7 @@ Quality Assurance Engineer with *7 years of experience* in *web, mobile, API, an
 - Performance Testing: JMeter, LoadRunner
 - CI/CD & DevOps: Jenkins, Git/GitHub, GitLab CI, Maven, Gradle, Docker 
 - Databases: MySQL, SQL Server, Oracle, MongoDB
--Methodologies: Agile, Scrum, Sprint Planning, Backlog Grooming  
+- Methodologies: Agile, Scrum, Sprint Planning, Backlog Grooming  
 
 ---
 
